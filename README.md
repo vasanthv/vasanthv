@@ -1,8 +1,5 @@
-## Hello 👋🏽
+## Hi there 👋🏽
 
-My name is Vasanth, and I make web apps.
+My name is Vasanth, and I make web apps. I enjoy working where design meets code. I have an immense love for minimalistic designs and web technologies.
 
-I have an immense love for minimalistic designs and web technologies.
-I enjoy working with HTML, CSS, Vue.js & Node.js.
-
-I worked on multiple side projects from time to time. Find some of the active ones below as pinned projects. Most of these side projects are started mainly to scratch my own itch. If you like any one of them, please send me a note, it helps me move forward. 
+I have worked on multiple side projects from time to time, some of them got featured as top products in Hacker New  Product Hunt. Find some of some of my works pinned below. All my side projects will be free to use for everyone. If you like my projects, consider supporting me [here](https://github.com/sponsors/vasanthv).
