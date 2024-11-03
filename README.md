@@ -1,7 +1,10 @@
 ## Hi there 👋🏽
 
-My name is Vasanth, and I make web apps. I enjoy working where design meets code. I have an immense love for minimalistic designs and web technologies.
+I'm Vasanth, a web developer from Barrie, Canada, passionate about building simple, user-friendly web apps that everyone can enjoy for free. If my work adds a bit of ease to your day, sponsoring me would mean a lot!
 
-I have worked on multiple side projects from time to time, some of them got featured as top products in Hacker New & Product Hunt. Find some of some of my works pinned below. All my side projects are 100% free to use for everyone. No ads or sponsored contents. 
+Here are some of my current projects:
 
-If you are using my projects, consider supporting me [here](https://github.com/sponsors/vasanthv).
+[Webtag.io](https://webtag.io) — A plain-text bookmarking site, completely free to use.
+[Overtalk.io](https://overtalk.io) — A web-based walkie-talkie app for seamless communication.
+
+Thank you for your support!
