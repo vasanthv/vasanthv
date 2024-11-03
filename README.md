@@ -4,7 +4,7 @@ I'm Vasanth, a web developer from Barrie, Canada, passionate about building simp
 
 Here are some of my current projects:
 
-[Webtag.io](https://webtag.io) — A plain-text bookmarking site, completely free to use.
-[Overtalk.io](https://overtalk.io) — A web-based walkie-talkie app for seamless communication.
+- [Webtag.io](https://webtag.io) — A plain-text bookmarking site, completely free to use.
+- [Overtalk.io](https://overtalk.io) — A web-based walkie-talkie app for seamless communication.
 
 Thank you for your support!
